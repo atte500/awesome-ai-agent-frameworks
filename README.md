@@ -2,7 +2,7 @@
 	⚡ Awesome AI Agent Frameworks ⚡
 </h1>
 
-> Last updated: 2025-09-02
+> Last updated: 2025-09-22
 
 ## Description
 This repository lists AI Agent Frameworks we’ve battle-tested and/or reviewed while building production-grade systems for 40+ clients. This list is sorted based on our preferability, focuses on real trade-offs, what each framework is **REALLY** good at, and when to reach for it. 
