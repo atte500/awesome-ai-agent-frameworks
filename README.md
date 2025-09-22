@@ -7,6 +7,9 @@
 ## Description
 This repository lists AI Agent Frameworks we’ve battle-tested and/or reviewed while building production-grade systems for 40+ clients. This list is sorted based on our preferability, focuses on real trade-offs, what each framework is **REALLY** good at, and when to reach for it. 
 
+Note: A longer, more detailed version of this list is available as an article [here](https://blog.axioma-ai.com/top-tier-ai-agent-frameworks-f84d40cfd4c7) 🙃
+
+
 ## How we evaluate?
 - Reliability: state management, retries, determinism, type safety
 - Ergonomics: DX, tooling, validation, tracing, testability, etc.
